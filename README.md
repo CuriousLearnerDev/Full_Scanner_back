@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ![mian](https://fastly.jsdelivr.net/gh/Zhao-sai-sai/Full_Scanner_back/img/1.png)
 ![mian](https://fastly.jsdelivr.net/gh/Zhao-sai-sai/Full_Scanner_back/img/2.png)
-![mian](https://fastly.jsdelivr.net/gh/Zhao-sai-sai/Full_Scanner_back/img/3.png)
+![mian](https://fastly.jsdelivr.net/gh/Zhao-sai-sai/Full_Scanner_back/img/4.png)
 ## 警告
 ***
 ### 请勿用于非法用途！否则自行承担一切后果
